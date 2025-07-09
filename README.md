@@ -24,6 +24,9 @@ This is a repository for [NFS](https://en.wikipedia.org/wiki/Network_File_System
 ### Driver parameters
 Please refer to [`nfs.csi.k8s.io` driver parameters](./docs/driver-parameters.md)
 
+### Background Capabilities
+Learn about the extensive background automation, CI/CD processes, and asynchronous operations in the [Background Capabilities Guide](./docs/background-capabilities.md)
+
 ### Examples
  - [Basic usage](./deploy/example/README.md)
  - [fsGroupPolicy](./deploy/example/fsgroup)
